@@ -37,7 +37,7 @@ permite tratar hojas (`Producto`) y nodos (`Categoria`) de forma uniforme.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/<usuario>/apellido-post1-u3.git
+git clone https://github.com/KevinZorro/Zorro-post1-u3.git
 cd apellido-post1-u3
 
 # Compilar y empaquetar
